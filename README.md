@@ -4,6 +4,6 @@ ios-hw1-tip
 
 Completed:
 
-[] Display settings view
-[] Load and save user defaults
-[] Reflect new user setting when returning to main view
+[ ] Display settings view
+[ ] Load and save user defaults
+[ ] Reflect new user setting when returning to main view
