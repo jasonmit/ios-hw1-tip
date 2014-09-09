@@ -1,3 +1,3 @@
 ios-hw1-tip
 ===========
-![Screencast](http://imgur.com/gxAveSX)
+![Screencast](http://i.imgur.com/gxAveSX.gif)
