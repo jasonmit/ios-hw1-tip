@@ -36,7 +36,6 @@ class ViewController: UIViewController {
     
     @IBAction func onTap(sender: AnyObject) {
         self.billField.endEditing(true)
-        
         self.updateValues(self.billField)
     }
     
@@ -45,6 +44,8 @@ class ViewController: UIViewController {
         
         let idx: Int = self.defaults.integerForKey(self.key)
         self.tipSegment.selectedSegmentIndex = idx
+        
+        self.updateValues(self)
     }
     
     @IBAction func updateValues(sender: AnyObject) {
